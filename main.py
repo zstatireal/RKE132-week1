@@ -11,3 +11,7 @@
 # ülevalt alla V vasakult paremale
 # noole suunad
 # diagrams.net E draw.io
+
+first_name = input("Enter your first name:")
+
+print(f"Hello, {first_name}")
